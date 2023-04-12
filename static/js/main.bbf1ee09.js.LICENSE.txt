@@ -148,6 +148,8 @@
 
 /*! lz-string */
 
+/*! mobile-detect */
+
 /*! qrcode */
 
 /*! symbol-observable */
@@ -281,6 +283,10 @@
 /*!****************************************************!*\
           !*** ./node_modules/symbol-observable/es/index.js ***!
           \****************************************************/
+
+/*!*****************************************************!*\
+          !*** ./node_modules/mobile-detect/mobile-detect.js ***!
+          \*****************************************************/
 
 /*!*****************************************************!*\
           !*** ./node_modules/qrcode/lib/core/format-info.js ***!
@@ -461,6 +467,10 @@
 /*!****************************************************************************************************!*\
           !*** ./node_modules/jss-plugin-rule-value-observable/dist/jss-plugin-rule-value-observable.esm.js ***!
           \****************************************************************************************************/
+
+/*!@license Copyright 2013, Heinrich Goebl, License: MIT, see https://github.com/hgoebl/mobile-detect.js*/
+
+/*!mobile-detect v1.4.5 2021-03-13*/
 
 /**
            * A better abstraction over CSS.
